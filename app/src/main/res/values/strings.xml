@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">OmniSave</string>
+    <string name="app_title">OmniSave Video Downloader</string>
+    <string name="tab_downloader">Downloader</string>
+    <string name="tab_browser">Web Sniffer</string>
+    <string name="tab_offline">Offline Library</string>
+    <string name="tab_downloads">Queue</string>
+    <string name="download_action">Download</string>
+    <string name="paste_link_hint">Paste YouTube, TikTok, FB, IG, MovieBox link</string>
+    <string name="offline_mode_active">Offline Mode Active</string>
+    <string name="offline_mode_desc">Viewing saved media offline without data</string>
+</resources>
